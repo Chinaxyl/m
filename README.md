@@ -2,4 +2,4 @@
 
 正确地址
 https://raw.githubusercontent.com/ChinaTudou/QX/ABC/DIY_1.conf
-点击订阅 (https://raw.githubusercontent.com/ChinaTudou/QX/ABC/DIY_1.conf)
+* 点击订阅(https://raw.githubusercontent.com/ChinaTudou/QX/ABC/DIY_1.conf)
