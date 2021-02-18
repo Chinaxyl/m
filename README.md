@@ -2,7 +2,7 @@
 * 查看代码先点生成再复制链接，链接以raw开头才是正确路径。如下↓
 * https://raw.githubusercontent.com/ChinaTudou/QX/ABC/DIY_1.conf
 
-# 订阅配置
+# 一键DIY配置
 * [私人专用DIY配置](https://raw.githubusercontent.com/ChinaTudou/QX/ABC/DIY_1.conf)
-# 远程订阅
+# Task远程订阅
 * [Task合集订阅](https://qxzy.top/rules/QuantumultX/qixin.json)
