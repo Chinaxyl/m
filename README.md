@@ -5,4 +5,4 @@
 # 一键DIY配置
 * [私人专用DIY配置](https://raw.githubusercontent.com/ChinaTudou/QX/ABC/DIY3.0.conf)
 # Task远程订阅
-* [Task合集订阅](https://qxzy.top/rules/QuantumultX/qixin.json)
+* [Task合集订阅](https://raw.githubusercontent.com/zwf234/rules/master/qixin.json)
