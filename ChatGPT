@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,openai.com,解锁ChatGPT
 DOMAIN-SUFFIX,chat.openai.com,解锁ChatGPT
 # GEOIP,NETFLIX,解锁ChatGPT
 DOMAIN-SUFFIX,bing.com,解锁ChatGPT
+DOMAIN-SUFFIX,bing.net,解锁ChatGPT
+DOMAIN-SUFFIX,msn.com,解锁ChatGPT
