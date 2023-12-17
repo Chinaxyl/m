@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,chat.openai.com,解锁ChatGPT
 DOMAIN-SUFFIX,bing.com,解锁ChatGPT
 DOMAIN-SUFFIX,bing.net,解锁ChatGPT
 DOMAIN-SUFFIX,msn.com,解锁ChatGPT
+DOMAIN-SUFFIX,discord.com,解锁ChatGPT
+DOMAIN-SUFFIX,discord.gg,解锁ChatGPT
