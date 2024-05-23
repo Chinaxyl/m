@@ -1,9 +1,9 @@
 # > 解锁ChatGPT
 USER-AGENT,Argo*,解锁ChatGPT
-DOMAIN-SUFFIX,333openai.com,解锁ChatGPT
+DOMAIN-SUFFIX,openai.com,解锁ChatGPT
 DOMAIN-SUFFIX,chatgpt.com,解锁ChatGPT
 DOMAIN-SUFFIX,revenuecat.com,解锁ChatGPT
-
+DOMAIN-SUFFIX,browser-intake-datadoghq.com,解锁ChatGPT
 # GEOIP,NETFLIX,解锁ChatGPT
 DOMAIN-SUFFIX,bing.com,解锁ChatGPT
 DOMAIN-SUFFIX,bing.net,解锁ChatGPT
