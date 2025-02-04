@@ -1,2 +1,5 @@
-#国外App分流规则
+# 国外App分流规则
+# 加密币bybit
+DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybit.global
+DOMAIN-SUFFIX,app-measurement.com
