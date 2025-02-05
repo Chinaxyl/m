@@ -1,4 +1,4 @@
-# 国外App分流规则
+# > 特殊App
 # 加密币bybit
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybit-aws.com
@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bybdc6.com
 DOMAIN-SUFFIX,byapps.net
+#
