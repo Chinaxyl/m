@@ -3,7 +3,3 @@
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binancecnt.com
-# 
-# 欧易，目前不限制地区哪里都可以使用
-DOMAIN-SUFFIX,okx.com
-# 
