@@ -5,5 +5,5 @@ DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binancecnt.com
 # 
 # 欧易
-DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com  #欧易现在不限制地区
 # 
