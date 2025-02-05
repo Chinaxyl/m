@@ -1,17 +1,11 @@
-# 中国大陆直
+# > 中国大陆直
+# 币安
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binancecnt.com
-DOMAIN-SUFFIX,bntrace.com
+#DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,
-
-
-
-
-
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
+# 
+# 欧易
+#DOMAIN-SUFFIX,okx.com
+# 
